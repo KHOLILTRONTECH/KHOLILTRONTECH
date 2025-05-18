@@ -1,6 +1,7 @@
 ### 👋 Hi, I'm Muh Kholil Rohman!
 
 Welcome to my GitHub! Saya mahasiswa Teknik Elektro yang suka eksplorasi dunia robotika, Arduino, dan pemrograman.
+<img src="A_digital_graphic_design_banner_features_Muh_Kholi.png" alt="Banner" style="width:100%;"/>
 
 💡 Saya bikin akun ini buat dokumentasi dan berbagi:
 - Projek Arduino (otomasi, sensor, LED)
