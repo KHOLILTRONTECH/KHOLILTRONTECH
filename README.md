@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Muh Kholil!
+### 👋 Hi, I'm Kholil!
 
 Welcome to my GitHub! Saya mahasiswa Teknik Elektro yang suka eksplorasi dunia robotika, Arduino, dan pemrograman.
 
@@ -16,6 +16,7 @@ Welcome to my GitHub! Saya mahasiswa Teknik Elektro yang suka eksplorasi dunia r
 🚧 Masih tahap awal, tapi semoga bisa jadi tempat berkembang dan berbagi proyek bermanfaat ke depannya.
 
 ---
-  
-📍 Bekasi, Indonesia  
+ 
+📍 Bekasi, Indonesia   
 
+[![Instagram](https://img.shields.io/badge/Instagram-@kholilur__-purple?logo=instagram&logoColor=white)](https://www.instagram.com/kholilur__)
