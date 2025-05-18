@@ -1,6 +1,6 @@
 # Hi there, I'm Muh Kholilur Rohman 👋
 
-![Header Image](https://raw.githubusercontent.com/kholilur/kholilur/main/assets/header-image.jpg)
+![Header Image](https://github.com/KHOLILTRONTECH/KHOLILTRONTECH/blob/main/pict.png)
 
 ## About Me
 
