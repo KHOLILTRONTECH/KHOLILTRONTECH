@@ -1,16 +1,21 @@
-## Hi there 👋
+### 👋 Hi, I'm Muh Kholil!
 
-<!--
-**KHOLILTRONTECH/KHOLILTRONTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! Saya mahasiswa Teknik Elektro yang suka eksplorasi dunia robotika, Arduino, dan pemrograman.
 
-Here are some ideas to get you started:
+💡 Saya bikin akun ini buat dokumentasi dan berbagi:
+- Projek Arduino (otomasi, sensor, LED)
+- Koding Python & C++
+- Eksperimen dengan ROS (Robot Operating System)
+- Simulasi, tugas kuliah, dan hal-hal teknikal lainnya
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📦 Di repo saya, kamu mungkin nemu:
+- Script sederhana buat nyalain LED pake Python ke Arduino
+- Deteksi tangan atau suara pake OpenCV & ESP32
+- Proyek IoT kecil-kecilan buat belajar bareng
+
+🚧 Masih tahap awal, tapi semoga bisa jadi tempat berkembang dan berbagi proyek bermanfaat ke depannya.
+
+---
+  
+📍 Bekasi, Indonesia  
+
