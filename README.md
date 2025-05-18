@@ -20,3 +20,4 @@ Welcome to my GitHub! Saya mahasiswa Teknik Elektro yang suka eksplorasi dunia r
 📍 Bekasi, Indonesia   
 
 [![Instagram](https://img.shields.io/badge/Instagram-@kholilur__-purple?logo=instagram&logoColor=white)](https://www.instagram.com/kholilur__)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Kholilur%20Rohman-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-kholilur-rohman-9bb171335)
