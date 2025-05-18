@@ -44,10 +44,3 @@ I love creating smart solutions using **Arduino**, **Python**, and **C++** to br
 
 ---
 
-## ⚡ Fun Fact
-
-> “The best way to predict the future is to invent it.” – Alan Kay
-
----
-
-![Footer Image](https://raw.githubusercontent.com/kholilur/kholilur/main/assets/footer-image.jpg)
