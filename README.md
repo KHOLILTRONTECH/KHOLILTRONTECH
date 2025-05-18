@@ -42,3 +42,63 @@ I love creating smart solutions using **Arduino**, **Python**, and **C++** to br
 ---
 
 ![Footer Image](https://raw.githubusercontent.com/kholilur/kholilur/main/assets/footer-image.jpg)
+
+<!-- Mulai animasi robot arm -->
+<svg
+  width="150"
+  height="220"
+  viewBox="0 0 100 150"
+  xmlns="http://www.w3.org/2000/svg"
+  role="img"
+  aria-label="Robot Arm Animation"
+>
+  <!-- Upper arm -->
+  <rect x="40" y="10" width="20" height="60" rx="5" ry="5" fill="#90caf9">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="20 50 10"
+      to="-20 50 10"
+      dur="2s"
+      repeatCount="indefinite"
+      begin="0s"
+      fill="freeze"
+      additive="sum"
+      />
+  </rect>
+
+  <!-- Forearm -->
+  <rect x="40" y="70" width="20" height="50" rx="5" ry="5" fill="#90caf9">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="-30 50 70"
+      to="20 50 70"
+      dur="1.5s"
+      repeatCount="indefinite"
+      begin="0s"
+      fill="freeze"
+      additive="sum"
+      />
+  </rect>
+
+  <!-- Hand / Claw -->
+  <circle cx="50" cy="130" r="10" fill="#ff6f61">
+    <animateTransform
+      attributeName="transform"
+      attributeType="XML"
+      type="rotate"
+      from="10 50 130"
+      to="-10 50 130"
+      dur="1.2s"
+      repeatCount="indefinite"
+      begin="0s"
+      fill="freeze"
+      additive="sum"
+      />
+  </circle>
+</svg>
+<!-- Akhir animasi robot arm -->
+
