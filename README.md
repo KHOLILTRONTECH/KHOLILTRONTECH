@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Kholil!
+### 👋 Hi, I'm Muh Kholil Rohman!
 
 Welcome to my GitHub! Saya mahasiswa Teknik Elektro yang suka eksplorasi dunia robotika, Arduino, dan pemrograman.
 
@@ -8,10 +8,6 @@ Welcome to my GitHub! Saya mahasiswa Teknik Elektro yang suka eksplorasi dunia r
 - Eksperimen dengan ROS (Robot Operating System)
 - Simulasi, tugas kuliah, dan hal-hal teknikal lainnya
 
-📦 Di repo saya, kamu mungkin nemu:
-- Script sederhana buat nyalain LED pake Python ke Arduino
-- Deteksi tangan atau suara pake OpenCV & ESP32
-- Proyek IoT kecil-kecilan buat belajar bareng
 
 🚧 Masih tahap awal, tapi semoga bisa jadi tempat berkembang dan berbagi proyek bermanfaat ke depannya.
 
